@@ -6,3 +6,9 @@
 [tailwind integrado com vite](https://tailwindcss.com/docs/guides/vite)
 
 [Radix ui modal](https://www.radix-ui.com/primitives/docs/components/dialog)
+
+### Configuração das Datas
+
+```
+npm i date-fns
+```
