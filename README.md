@@ -7,6 +7,8 @@
 
 [Radix ui modal](https://www.radix-ui.com/primitives/docs/components/dialog)
 
+[Para configuração dos alertas foi usado o Sonner](https://sonner.emilkowal.ski/)
+
 ### Configuração das Datas
 
 ```
