@@ -1,9 +1,14 @@
 ## Dependencias
+
 <p>React</p> 
 <p>Tailwind</p>
 <p>Typescript</p>
 
-[tailwind integrado com vite](https://tailwindcss.com/docs/guides/vite)
+[Tailwind integrado com vite](https://tailwindcss.com/docs/guides/vite)
+
+[Animações com tailwind](https://tailwindcss.com/docs/animation)
+
+[Design responsivo tailwind](https://tailwindcss.com/docs/responsive-design)
 
 [Radix ui modal](https://www.radix-ui.com/primitives/docs/components/dialog)
 
@@ -14,3 +19,5 @@
 ```
 npm i date-fns
 ```
+
+[Site que verifica se a funcionalidade funciona nos navegadores](https://caniuse.com/?search=speechrecognition)
